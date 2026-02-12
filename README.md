@@ -44,11 +44,15 @@ Interactive Slicers for dynamic filtering
 
 - Key Insights
 
-Identified high-sales but low-profit categories
+Sales and profit show steady growth with noticeable peaks in later months of the year.
 
-Observed negative profit impact at higher discount levels
+West and East regions contribute higher overall sales compared to Central and South.
 
-Highlighted top-performing and loss-making regions
+Technology generates strong sales and profit compared to other categories.
+
+Higher discount levels are associated with lower profitability.
+
+Standard Class shipping accounts for the majority of sales volume.
 
 - Tools Used
 
