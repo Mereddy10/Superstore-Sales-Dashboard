@@ -56,12 +56,5 @@ Standard Class shipping accounts for the majority of sales volume.
 
 - Tools Used
 
-Microsoft Excel
+Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Data Cleaning & Transformation)
 
-Pivot Tables
-
-Pivot Charts
-
-Slicers
-
-Data Cleaning & Transformation
