@@ -1,10 +1,10 @@
 # Superstore-Sales-Dashboard
 
-📌 Project Overview
+- Project Overview
 
 This project analyzes a 9,994-row retail Superstore dataset using Microsoft Excel. The objective was to clean raw transactional data, perform exploratory analysis, and build an interactive dashboard to uncover key business insights related to sales, profitability, discounts, and regional performance.
 
-🧹 Data Preparation
+- Data Preparation
 
 Corrected data types (dates, currency, percentages)
 
@@ -18,7 +18,7 @@ Shipping Duration
 
 Order Year & Month
 
-📈 Analysis Performed
+- Analysis Performed
 
 Using Pivot Tables and aggregations, the analysis focused on:
 
@@ -30,7 +30,7 @@ Discount impact on profitability
 
 Shipping mode comparison
 
-📊 Dashboard Features
+- Dashboard Features
 
 KPI Cards (Total Sales, Profit, Orders, Profit Margin)
 
@@ -42,7 +42,7 @@ Discount vs Profit Insights
 
 Interactive Slicers for dynamic filtering
 
-🔎 Key Insights
+- Key Insights
 
 Identified high-sales but low-profit categories
 
@@ -50,7 +50,7 @@ Observed negative profit impact at higher discount levels
 
 Highlighted top-performing and loss-making regions
 
-🛠 Tools Used
+- Tools Used
 
 Microsoft Excel
 
